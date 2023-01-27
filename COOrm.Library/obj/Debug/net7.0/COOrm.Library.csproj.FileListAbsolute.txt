@@ -1,0 +1,12 @@
+/Users/cihanoguz/Projects/COOrm/COOrm.Library/obj/Debug/net7.0/COOrm.Library.csproj.AssemblyReference.cache
+/Users/cihanoguz/Projects/COOrm/COOrm.Library/obj/Debug/net7.0/COOrm.Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cihanoguz/Projects/COOrm/COOrm.Library/obj/Debug/net7.0/COOrm.Library.AssemblyInfoInputs.cache
+/Users/cihanoguz/Projects/COOrm/COOrm.Library/obj/Debug/net7.0/COOrm.Library.AssemblyInfo.cs
+/Users/cihanoguz/Projects/COOrm/COOrm.Library/obj/Debug/net7.0/COOrm.Library.csproj.CoreCompileInputs.cache
+/Users/cihanoguz/Projects/COOrm/COOrm.Library/bin/Debug/net7.0/COOrm.Library.deps.json
+/Users/cihanoguz/Projects/COOrm/COOrm.Library/bin/Debug/net7.0/COOrm.Library.dll
+/Users/cihanoguz/Projects/COOrm/COOrm.Library/bin/Debug/net7.0/COOrm.Library.pdb
+/Users/cihanoguz/Projects/COOrm/COOrm.Library/obj/Debug/net7.0/COOrm.Library.dll
+/Users/cihanoguz/Projects/COOrm/COOrm.Library/obj/Debug/net7.0/refint/COOrm.Library.dll
+/Users/cihanoguz/Projects/COOrm/COOrm.Library/obj/Debug/net7.0/COOrm.Library.pdb
+/Users/cihanoguz/Projects/COOrm/COOrm.Library/obj/Debug/net7.0/ref/COOrm.Library.dll
